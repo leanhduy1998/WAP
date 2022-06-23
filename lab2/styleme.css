@@ -1,0 +1,20 @@
+h1 {
+    color: green;
+    text-align: center;
+  }
+  
+  h2 {
+    color: brown
+  }
+  
+  li {
+    font-family: "Courier New", Times, serif;
+    
+  }
+  
+  a:link {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
