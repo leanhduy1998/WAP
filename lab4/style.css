@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    gap: 60px;
+}
+
+.column {
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.row {
+    display: flex;
+    height: 20px;
+    align-items: center;
+}
+
+.label, .input {
+    width: 60%;
+}
